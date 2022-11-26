@@ -1,0 +1,19 @@
+.app-header {
+  align-items: flex-end;
+  justify-content: space-between;
+
+}
+
+.app-header h1 {
+  padding-left: 6px;
+  width: 200px;
+  height: 36px;
+  font-size: 26px;
+  background-color: lightgrey;
+  border-radius: 5px;
+}
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: grey;
+}

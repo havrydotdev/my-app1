@@ -1,0 +1,9 @@
+.app-list {
+  margin-top: 20px;
+}
+
+.app-list .list-group-item {
+  padding: 20px 35px 10px 35px;
+  margin-top: 10px;
+  border-radius: 10px
+}
